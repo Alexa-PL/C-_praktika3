@@ -12,3 +12,4 @@ C:\Users\Asus\Dropbox\Мой ПК (LAPTOP-V24AAHRI)\Desktop\praktika3_C#_massiv\
 C:\Users\Asus\Dropbox\Мой ПК (LAPTOP-V24AAHRI)\Desktop\praktika3_C#_massiv\Task1\obj\Debug\net8.0\Task1.pdb
 C:\Users\Asus\Dropbox\Мой ПК (LAPTOP-V24AAHRI)\Desktop\praktika3_C#_massiv\Task1\obj\Debug\net8.0\Task1.genruntimeconfig.cache
 C:\Users\Asus\Dropbox\Мой ПК (LAPTOP-V24AAHRI)\Desktop\praktika3_C#_massiv\Task1\obj\Debug\net8.0\ref\Task1.dll
+C:\Users\Asus\Dropbox\Мой ПК (LAPTOP-V24AAHRI)\Desktop\praktika3_C#_massiv\Task1\obj\Debug\net8.0\Task1.sourcelink.json
